@@ -1,0 +1,10 @@
+Fri Jul 03 12:12:38 IST 2026
+Trace back: bad window path name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"
+    while executing
+"winfo height $widget"
+    (procedure "treeAutoScan" line 11)
+    invoked from within
+"treeAutoScan .main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"
+    ("after" script)
+  <2:/home/vaaluka/Downloads/questasim/linux_x86_64/tk8.6/bgerror.tcl:106: ::tkerror {bad window path name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"}
+  <1:eval:1: ::tk::dialog::error::bgerror {bad window path name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"}
